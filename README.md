@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This project uses Next.js as the React framework. The solution intentionally uses a single page and no routing logic, in line with the assessment requirements.
 
 ## Getting Started
 
